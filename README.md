@@ -1,5 +1,7 @@
 # SkillSync
 
+> **This repository has moved.** SkillSync now lives at [Syntek-Collective/skill-sync](https://github.com/Syntek-Collective/skill-sync). This copy is archived and read-only.
+
 SkillSync is a skill-gap analyzer that compares your resume against any job listing and shows you exactly what skills you're missing — so you know which jobs are realistic for you right now, and what to learn to close the gap.
 
 ## The Problem
